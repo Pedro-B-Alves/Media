@@ -1,0 +1,26 @@
+C:\Users\dev\Desktop\pedro\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\Users\dev\Desktop\pedro\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\Users\dev\Desktop\pedro\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\Users\dev\Desktop\pedro\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\Users\dev\Desktop\pedro\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\Users\dev\Desktop\pedro\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\Users\dev\Desktop\pedro\Media\obj\Debug\netcoreapp3.1\Media.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\pedro\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\pedro\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\Users\dev\Desktop\pedro\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\pedro\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\Users\dev\Desktop\pedro\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\Users\dev\Desktop\pedro\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\bin\Debug\netcoreapp3.1\Media.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\bin\Debug\netcoreapp3.1\Media.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\bin\Debug\netcoreapp3.1\Media.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\obj\Debug\netcoreapp3.1\Media.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\obj\Debug\netcoreapp3.1\Media.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\obj\Debug\netcoreapp3.1\Media.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache
